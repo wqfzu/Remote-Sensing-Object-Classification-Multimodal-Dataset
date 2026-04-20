@@ -1,4 +1,4 @@
-# Remote-Sensing-Object-Classification-Multimodal-Dataset
+# Remote-Sensing-Classification-Multimodal-Dataset
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
